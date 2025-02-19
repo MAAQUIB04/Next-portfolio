@@ -9,11 +9,11 @@ import "@/public/assets/css/responsive.css";
 import "./globals.css";
 
 export const metadata = {
-  title: "Siddhant Singh Thakur - Portfolio",
-  description: "Portfolio page for Siddhant Singh Thakur",
+  title: "Mohammad Abdul Aquin Khan - Portfolio",
+  description: "Portfolio page for Mohammad Abdul Aquin Khan",
   openGraph: {
-    title: "Siddhant Singh Thakur - Portfolio",
-    description: "Portfolio page for Siddhant Singh Thakur",
+    title: "Mohammad Abdul Aquin Khan - Portfolio",
+    description: "Portfolio page for Mohammad Abdul Aquin Khan",
     url: "https://siddhantsinghthakur.vercel.app/",
     type: "website",
     images: [
@@ -21,15 +21,15 @@ export const metadata = {
         url: "https://siddhantsinghthakur.vercel.app/assets/images/Sid.png",
         width: 1200,
         height: 630,
-        alt: "Portfolio of Siddhant Singh Thakur",
+        alt: "Portfolio of Mohammad Abdul Aquin Khan",
       },
     ],
-    siteName: "Siddhant Singh Thakur's Portfolio",
+    siteName: "Mohammad Abdul Aquin Khan's Portfolio",
   },
   twitter: {
-    card: "Siddhant Singh Thakur - Portfolio",
-    title: "Siddhant Singh Thakur - Portfolio",
-    description: "Portfolio page for Siddhant Singh Thakur",
+    card: "Mohammad Abdul Aquin Khan - Portfolio",
+    title: "Mohammad Abdul Aquin Khan - Portfolio",
+    description: "Portfolio page for Mohammad Abdul Aquin Khan",
     images: [
       "https://siddhantsinghthakur.vercel.app/assets/images/Sid.png",
     ],
