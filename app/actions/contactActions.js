@@ -18,7 +18,7 @@ export async function submitForm(data) {
       port: 587, // Port number (587 for TLS)
       secure: false, // Set to true for port 465, false for port 587
       auth: {
-        user: "siddhantthakur43@gmail.com", // Replace with your email
+        user: "maak0401@gmail.com", // Replace with your email
         pass: "tdde adml uabb tmoo", // Replace with your email password or app-specific password
       },
     });
@@ -26,7 +26,7 @@ export async function submitForm(data) {
     // Compose the email
     const mailOptions = {
       from: `"${fullName}" <${email}>`, // Sender info
-      to: "siddhantthakur43@gmail.com", // Replace with the destination email
+      to: "maak0401@gmail.com", // Replace with the destination email
       subject: `New Contact Form Submission: ${subject}`,
       text: `
         You have received a new message from your website contact form:

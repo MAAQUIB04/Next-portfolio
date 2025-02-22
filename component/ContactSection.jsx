@@ -48,7 +48,7 @@ function ContactSection() {
             </h1>
           </div>
           <h3 className="scroll-animation" data-animation="fade_from_bottom">
-            siddhantthakur43@gmail.com
+          maak0401@gmail.com
           </h3>
           <p id="required-msg">* Marked fields are required to fill.</p>
           {status.message && (

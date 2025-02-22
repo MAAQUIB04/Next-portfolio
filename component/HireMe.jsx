@@ -8,38 +8,38 @@ function HireMe() {
   return (
     <div className="left-sidebar">
       <div className="sidebar-header d-flex align-items-center justify-content-between">
-        <img src="assets/images/Sid.png" alt="Logo" width={200} />
-        <span className="designation">Frontend Developer</span>
+        <img src="assets/images/aquib.png" alt="Logo" width={200} />
+        <span className="designation">Business Analyst</span>
       </div>
-      <img className="me" src="assets/images/profile.jpeg" alt="Me" />
-      <h2 className="address">Base in Indore, India</h2>
-      <p className="copyright">© 2025 Siddhant. All Rights Reserved</p>
+      <img className="me" src="assets/images/AquibProfile.jpeg" alt="Me" height={370} width={250} />
+      <h2 className="address">Base in Mississauga, Ontario, Canada</h2>
+      <p className="copyright">© 2025 Aquib. All Rights Reserved</p>
       <ul className="social-profile d-flex align-items-center flex-wrap justify-content-center">
         <li>
           <a
-            href="https://www.linkedin.com/in/siddhanthakur/"
+            href="https://www.linkedin.com/in/maaquibkhan/"
             target="_blank"
           >
             <LinkedIn />
           </a>
         </li>
         <li>
-          <a href="mailto:siddhantthakur43@gmail.com">
+          <a href="mailto:maak0401@gmail.com">
             <Mail />
           </a>
         </li>
         <li>
-          <a href="tel:+917477292838">
+          <a href="tel:+1 (437) 424-6034">
             <Call />
           </a>
         </li>
         <li>
-          <a href="https://github.com/siddhanthakur43" target="_blank">
+          <a href="https://github.com/MAAQUIB04" target="_blank">
             <Github />
           </a>
         </li>
       </ul>
-      <a href="/Siddhant-Singh-Thakur.pdf" download={true} className="theme-btn">
+      <a href="/Mohammad-Abdul-Aquib-Khan.pdf" download={true} className="theme-btn">
         <i className="las la-arrow-down" /> Download CV
       </a>
     </div>

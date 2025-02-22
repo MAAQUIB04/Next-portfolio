@@ -13,11 +13,11 @@ function HomeSection() {
               <i className="las la-home" /> Introduce
             </h4>
             <h1 className="scroll-animation" data-animation="fade_from_bottom">
-              Hi from <span>Siddhant</span>, Frontend Developer
+              Hi from <span>Aquin</span>, Business Analyst
             </h1>
           </div>
           <p className="scroll-animation" data-animation="fade_from_bottom">
-            Frontend Developer with more than <b>3 years</b> of hands-on
+            Business Analyst with more than <b>3 years</b> of hands-on
             experience in web development, specializing in creating responsive
             and dynamic user interfaces. Skilled in a range of technologies
             including <b>Html</b>, <b>CSS</b>, <b>Javascript</b>,{" "}
