@@ -9,33 +9,33 @@ import "@/public/assets/css/responsive.css";
 import "./globals.css";
 
 export const metadata = {
-  title: "Mohammad Abdul Aquin Khan - Portfolio",
-  description: "Portfolio page for Mohammad Abdul Aquin Khan",
+  title: "Mohammad Abdul Aquib Khan - Portfolio",
+  description: "Portfolio page for Mohammad Abdul Aquib Khan",
   openGraph: {
-    title: "Mohammad Abdul Aquin Khan - Portfolio",
-    description: "Portfolio page for Mohammad Abdul Aquin Khan",
-    url: "https://siddhantsinghthakur.vercel.app/",
+    title: "Mohammad Abdul Aquib Khan - Portfolio",
+    description: "Portfolio page for Mohammad Abdul Aquib Khan",
+    url: "https://mohammad-abdul-aquib-khan.vercel.app/",
     type: "website",
     images: [
       {
-        url: "https://siddhantsinghthakur.vercel.app/assets/images/Sid.png",
+        url: "https://mohammad-abdul-aquib-khan.vercel.app/assets/images/aquib.png",
         width: 1200,
         height: 630,
-        alt: "Portfolio of Mohammad Abdul Aquin Khan",
+        alt: "Portfolio of Mohammad Abdul Aquib Khan",
       },
     ],
-    siteName: "Mohammad Abdul Aquin Khan's Portfolio",
+    siteName: "Mohammad Abdul Aquib Khan's Portfolio",
   },
   twitter: {
-    card: "Mohammad Abdul Aquin Khan - Portfolio",
-    title: "Mohammad Abdul Aquin Khan - Portfolio",
-    description: "Portfolio page for Mohammad Abdul Aquin Khan",
+    card: "Mohammad Abdul Aquib Khan - Portfolio",
+    title: "Mohammad Abdul Aquib Khan - Portfolio",
+    description: "Portfolio page for Mohammad Abdul Aquib Khan",
     images: [
-      "https://siddhantsinghthakur.vercel.app/assets/images/Sid.png",
+      "https://mohammad-abdul-aquib-khan.vercel.app/assets/images/aquib.png",
     ],
   },
   alternates: {
-    canonical: "https://siddhantsinghthakur.vercel.app/",
+    canonical: "https://mohammad-abdul-aquib-khan.vercel.app/",
   },
 };
 
