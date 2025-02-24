@@ -13,7 +13,7 @@ function HomeSection() {
               <i className="las la-home" /> Introduce
             </h4>
             <h1 className="scroll-animation" data-animation="fade_from_bottom">
-              Hi from <span>Aquin</span>, Business Analyst
+              Hi from <span>Aquib</span>, Business Analyst
             </h1>
           </div>
           <p className="scroll-animation" data-animation="fade_from_bottom">
