@@ -17,7 +17,7 @@ function HomeSection() {
             </h1>
           </div>
           <p className="scroll-animation" data-animation="fade_from_bottom">
-            Business Analyst with more than <b>3 years</b> of hands-on
+            Business Analyst with <b>2 years</b> of hands-on
             experience in Data Analysis, Modeling and Visualization specializing in creating responsive
             and dynamic dashboards and reports. Skilled in a range of technologies
             including <b>Python</b>, <b>Power BI</b>, <b>SQL</b>,{" "}
