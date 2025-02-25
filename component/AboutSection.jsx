@@ -18,7 +18,7 @@ function AboutSection() {
             </h1>
           </div>
           <p className="scroll-animation" data-animation="fade_from_bottom">
-            Pioneered<strong>data driven solutions</strong> as an Analyst with hands-on exprience in{" "}
+            Pioneered<strong> data driven solutions</strong> as an Analyst with hands-on exprience in{" "}
             <strong>Data Analysis Modeling and Visualization</strong>, I specialize in building{" "}
             <strong>seamless</strong>, <strong>responsive</strong> and{" "}
             <strong>user-focused dashboards and reports</strong>.
@@ -32,9 +32,9 @@ function AboutSection() {
           <p className="scroll-animation" data-animation="fade_from_bottom">
             Whether it's enhancing <strong>user experiences</strong>, collaborating{" "}
             <strong>with cross functional</strong>, teams{" "}
-            <strong>or optmizing processes</strong>, I thrive on solving problems
+            <strong>and optmizing processes</strong>, I thrive on solving problems
             with
-            <strong>creativity</strong> and <strong>precision</strong>. I’m{" "}
+            <strong> creativity</strong> and <strong>precision</strong>. I’m{" "}
             <strong>curious</strong> by nature, <strong>confident</strong> in my
             skills, and dedicated to constantly evolving—one{" "}
             <strong>innovative project</strong> at a time.
