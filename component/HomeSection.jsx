@@ -13,17 +13,17 @@ function HomeSection() {
               <i className="las la-home" /> Introduce
             </h4>
             <h1 className="scroll-animation" data-animation="fade_from_bottom">
-              Hi from <span>Aquib</span>, Business Analyst
+              Hi from <span>Mohammad Abdul Aquib</span>, Business Analyst
             </h1>
           </div>
           <p className="scroll-animation" data-animation="fade_from_bottom">
             Business Analyst with more than <b>3 years</b> of hands-on
-            experience in web development, specializing in creating responsive
-            and dynamic user interfaces. Skilled in a range of technologies
-            including <b>Html</b>, <b>CSS</b>, <b>Javascript</b>,{" "}
-            <b>React.js</b>, <b>Redux.js</b>, <b>Next.js</b>,{" "}
-            <b>Node.js</b>, <b>express.js</b>,{" "}
-            <b>AWS</b> and more.
+            experience in Data Analysis, Modeling and Visualization specializing in creating responsive
+            and dynamic dashboards and reports. Skilled in a range of technologies
+            including <b>Python</b>, <b>Power BI</b>, <b>SQL</b>,{" "}
+            <b>Power Query</b>, <b>DAX</b>, <b>Tableau</b>,{" "}
+            <b>MS Excel</b>, <b>SAP</b>,{" "}
+            <b>Azure</b> and more.
           </p>
           <a
             href="#projects"
