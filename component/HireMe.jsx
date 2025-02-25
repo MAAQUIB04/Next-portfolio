@@ -12,7 +12,7 @@ function HireMe() {
         <span className="designation">Business Analyst</span>
       </div>
       <img className="me" src="assets/images/AquibProfile.jpeg" alt="Me" height={370} width={250} />
-      <h2 className="address">Base in Mississauga, Ontario, Canada</h2>
+      <h2 className="address">Based in Mississauga, Ontario, Canada</h2>
       <p className="copyright">© 2025 Aquib. All Rights Reserved</p>
       <ul className="social-profile d-flex align-items-center flex-wrap justify-content-center">
         <li>

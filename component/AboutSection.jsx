@@ -18,21 +18,21 @@ function AboutSection() {
             </h1>
           </div>
           <p className="scroll-animation" data-animation="fade_from_bottom">
-            With over <strong>3+ years</strong> of hands-on experience as a{" "}
-            <strong>frontend developer</strong>, I specialize in building{" "}
+            Pioneered<strong>data driven solutions</strong> as an Analyst with hands-on exprience in{" "}
+            <strong>Data Analysis Modeling and Visualization</strong>, I specialize in building{" "}
             <strong>seamless</strong>, <strong>responsive</strong> and{" "}
-            <strong>user-focused digital products</strong>.
+            <strong>user-focused dashboards and reports</strong>.
           </p>
           <p className="scroll-animation" data-animation="fade_from_bottom">
-            My expertise lies in technologies like <strong>React.js</strong>,{" "}
-            <strong>Next.js</strong>, <strong>Node.js</strong>, and{" "}
-            <strong>AWS</strong>, enabling me to craft solutions that are not
+            My expertise lies in technologies like <strong>Power BI</strong>,{" "}
+            <strong>Python</strong>, <strong>SQL</strong>, and{" "}
+            <strong>Azure</strong>, enabling me to craft solutions that are not
             only <strong>robust</strong> but also <strong>future-ready</strong>.
           </p>
           <p className="scroll-animation" data-animation="fade_from_bottom">
-            Whether it's enhancing <strong>user experiences</strong>, mentoring{" "}
-            <strong>new talent</strong>, or leading{" "}
-            <strong>full-stack projects</strong>, I thrive on solving problems
+            Whether it's enhancing <strong>user experiences</strong>, collaborating{" "}
+            <strong>with cross functional</strong>, teams{" "}
+            <strong>or optmizing processes</strong>, I thrive on solving problems
             with
             <strong>creativity</strong> and <strong>precision</strong>. I’m{" "}
             <strong>curious</strong> by nature, <strong>confident</strong> in my
