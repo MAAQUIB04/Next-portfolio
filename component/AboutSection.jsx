@@ -13,8 +13,8 @@ function AboutSection() {
               <i className="lar la-user" /> About
             </h4>
             <h1 className="scroll-animation" data-animation="fade_from_bottom">
-              Crafting Digital Experiences <br /> with <span>Purpose</span> and{" "}
-              <span>Passion</span>
+              Decoding Data, Crafting Stories, <br /> and <span>Powering</span> Business Impact{" "}
+              <span>with Precision</span>
             </h1>
           </div>
           <p className="scroll-animation" data-animation="fade_from_bottom">
