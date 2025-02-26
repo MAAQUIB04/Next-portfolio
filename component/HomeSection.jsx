@@ -38,7 +38,7 @@ function HomeSection() {
               className="left scroll-animation"
               data-animation="fade_from_left"
             >
-              <h1>3+</h1>
+              <h1>2</h1>
               <p>
                 Years of <br />
                 Experience
@@ -48,8 +48,8 @@ function HomeSection() {
               className="right scroll-animation"
               data-animation="fade_from_right"
             >
-              <h1>10+</h1>
-              <p>projects completed</p>
+              <h1>5</h1>
+              <p>projects </p>
             </div>
           </div>
         </div>
