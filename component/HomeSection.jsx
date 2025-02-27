@@ -10,14 +10,14 @@ function HomeSection() {
               className="subtitle scroll-animation"
               data-animation="fade_from_bottom"
             >
-              <i className="las la-home" /> Introduce
+              <i className="las la-home" /> Introduction
             </h4>
             <h1 className="scroll-animation" data-animation="fade_from_bottom">
-              Hi from <span>Mohammad Abdul Aquib</span>, Business Analyst
+              Hi, I'm <span>Mohammad Abdul Aquib</span>,
             </h1>
           </div>
           <p className="scroll-animation" data-animation="fade_from_bottom">
-            Business Analyst with <b>2 years</b> of hands-on
+            a <b>Data Analyst</b> with <b>2 years</b> of hands-on
             experience in Data Analysis, Modeling and Visualization specializing in creating responsive
             and dynamic dashboards and reports. Skilled in a range of technologies
             including <b>Python</b>, <b>Power BI</b>, <b>SQL</b>,{" "}
