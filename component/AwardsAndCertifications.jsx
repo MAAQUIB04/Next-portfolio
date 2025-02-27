@@ -9,8 +9,7 @@ const hackOPUSSkills = [
   "Socket.IO",
   "Redis",
 ];
-const instaAwardSkills = ["React", "Redux", "Node Js"];
-const reactCertSills = ["React", "Redux"];
+const AwardSkills = ["React", "Redux", "Node Js"];
 const frontendCertSills = ["HTML", "CSS", "Javascript"];
 
 function AwardsAndCertifications() {
@@ -28,40 +27,16 @@ function AwardsAndCertifications() {
             >
               <i className="las la-grip-vertical" /> Awards And Certification
             </h4>
-            <h1 className="scroll-animation" data-animation="fade_from_bottom">
+            {/* <h1 className="scroll-animation" data-animation="fade_from_bottom">
               <span>Awards</span>
-            </h1>
+            </h1> */}
           </div>
           <div className="row portfolio-items">
-            <AwardItem
+            {/* <AwardItem
               name="HackOPUS"
               imageUrl={"/assets/images/hackopus.png"}
               skills={hackOPUSSkills}
               description={"HackOPUS - A Hackathon conducted by Infosys Client"}
-            />
-            <AwardItem
-              name="Insta Award"
-              imageUrl={"/assets/images/Rise-Insta-Awards-02-Aug-2024.png"}
-              skills={hackOPUSSkills}
-              description={
-                "Insta Award - Commendable achievement with wining 1st Rank in Hackathon event conducted by client"
-              }
-            />
-            <AwardItem
-              name="Insta Award"
-              imageUrl={"/assets/images/Rise-Insta-Awards-01-Mar-2024.png"}
-              skills={instaAwardSkills}
-              description={
-                "Insta Award - Scaling up quickly in client project and started handling stories idenpendently in short span of time"
-              }
-            />
-            {/* <AwardItem
-              name="Insta Award"
-              imageUrl={"/assets/images/star-of-the-month-Feb-2024.png"}
-              skills={instaAwardSkills}
-              description={
-                "Star of the Month - For contributing well in Client Project, getting appreciation from client Senior Engineer, presenting BTN idea (Server Side Pagination), and many more"
-              }
             /> */}
             <div className="section-header">
               <h1
@@ -72,38 +47,29 @@ function AwardsAndCertifications() {
               </h1>
             </div>
             <AwardItem
-              name="Infosys Certified React Professional"
+              name="Accenture Data Analytics"
               imageUrl={
-                "/assets/images/Infosys-Certified-React-Professional.png"
+                "/assets/images/Accenture Data Analytics.png"
+                
               }
-              skills={reactCertSills}
-              description={"Infosys Certified React Professional"}
+              description={"Accenture Data Analytics"}
             />
 
             <AwardItem
-              name="Infosys-Certified-Front-End-Web-Developer"
+              name="Statistics 101"
               imageUrl={
-                "/assets/images/Infosys-Certified-Front-End-Web-Developer.png"
+                "/assets/images/Statistics 101.png"
               }
-              skills={frontendCertSills}
-              description={"Infosys Certified Front End Web Developer"}
+              description={"Statistics 101, IBM"}
             />
 
             <AwardItem
-              name="Infosys-Certified-Java-SE8-Developer"
+              name="Big Data 101"
               imageUrl={
-                "/assets/images/Infosys-Certified-Java-SE8-Developer.png"
-              }
-              description={"Infosys Certified Java SE8 Developer"}
-            />
-
-            <AwardItem
-              name="Infosys-Global-Agile-Developer-Certification"
-              imageUrl={
-                "/assets/images/Infosys-Global-Agile-Developer-Certification.png"
+                "/assets/images/Big Data 101.png"
               }
               description={
-                "Infosys Global Agile Developer Certification"
+                "Big Data 101, IBM"
               }
             />
           </div>
