@@ -26,17 +26,17 @@ function ResumeSection() {
             </div>
             <h2><strong>Analyst</strong></h2>
             <ul>
-              <li>Streamlined inventory tracking system using Power BI and DAX, identifying discrepancies and reducing audit time by 30%.</li>
-              <li>Designed a performance dashboard with key KPI metrics by conducting time studies and leveraging SAP data, enhancing operational visibility and improving warehouse efficiency by 15%.</li>
-              <li>Managed 50+ weekly inbound and outbound returns and analyzed their financial impact to ensure accurate inventory adjustments and precise financial reporting.</li>
-              <li>Facilitated a comprehensive stakeholder analysis, identifying and defining responsibilities for 5 impacted groups, resulting in a 30% improvement in project alignment and streamlined task prioritization.</li>
+              <li>Streamlined inventory tracking system using <strong>Power BI</strong> and <strong>DAX</strong>, identifying discrepancies and reducing audit time by <strong>30%</strong>.</li>
+              <li>Designed a <strong>performance dashboard</strong> with key KPI metrics by conducting time studies and leveraging SAP data, improving data accessibility for stakeholders and improving warehouse efficiency by 15%.</li>
+              <li>Managed <strong>50+</strong> weekly inbound and outbound returns and analyzed their <strong>financial impact</strong> to ensure accurate inventory adjustments and precise financial reporting.</li>
+              <li>Facilitated a comprehensive <strong>stakeholder analysis</strong>, identifying and defining responsibilities for 5 impacted groups, resulting in a 30% improvement in project alignment and streamlined task prioritization.</li>
             </ul>
   
             <h2><strong>Business Analyst Intern</strong></h2>
             <ul>
-              <li>Accelerated inventory optimization by designing a Power BI report to analyze inventory turnover and stock levels, improving inventory management efficiency.</li>
-              <li>Enhanced the master data by optimizing data structures and processes with DAX Studio, resulting in a 30% increase in refresh efficiency.</li>
-              <li>Automated the reporting process for Shoppers across Canada by optimizing the script using Excel macros, reducing processing time by 40%.</li>
+              <li>Accelerated <strong>inventory optimization</strong> by designing a <strong>Power BI</strong> report to analyze inventory turnover and stock levels, improving inventory management efficiency.</li>
+              <li>Enhanced the master data by optimizing data structures and processes with <strong>DAX Studio</strong>, resulting in a <strong>30%</strong> increase in <strong>refresh efficiency</strong>.</li>
+              <li><strong>Automated</strong> the reporting process for Shoppers across Canada by optimizing the script using <strong>Excel macros</strong>, reducing processing time by <strong>40%</strong>.</li>
             </ul>
           </div>
   
@@ -51,8 +51,8 @@ function ResumeSection() {
             </div>
             <h2><strong>Analyst</strong></h2>
             <ul>
-              <li>Resolved 36 ETL issues during a single sprint, addressing backlog efficiently and meeting evolving client needs, leading to a smoother data pipeline and a 20% increase in data processing speed.</li>
-              <li>Leveraged advanced Excel functions to analyze and extract data from financial models, enhancing data interpretation.</li>
+              <li>Resolved <strong>36 ETL issues</strong> during a single sprint, addressing backlog efficiently and meeting evolving client needs, leading to a smoother data pipeline and a <strong>20%</strong> increase in data processing speed.</li>
+              <li>Leveraged <strong>advanced Excel functions</strong> to analyze and extract data from <strong>financial models</strong>, enhancing data interpretation.</li>
             </ul>
           </div>
   
@@ -77,7 +77,7 @@ function ResumeSection() {
                 <strong>Aug 2018 – Jun 2021</strong>
               </span>
             </div>
-            <h2><strong>Baachelor of Business Administration(Finance) </strong></h2>
+            <h2><strong>Bachelor of Business Administration(Finance) </strong></h2>
           </div>
   
         </div>
