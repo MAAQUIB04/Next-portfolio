@@ -52,7 +52,6 @@ function ProjectSection() {
                 Pandas · Numpy · Pickle · Seaborn · Statistics ·
                 Poisson Distribution 
               </p>
-              <span className="projects">126 Projects</span>
             </div>
             <div
               className="service-item scroll-animation"
@@ -85,11 +84,8 @@ function ProjectSection() {
                 built on React, Node, Express js, pg db.
               </p>
               <p>
-                <span className="color-primary">Skills:</span> Express.js ·
-                react js · Redux.js · TanStack Query · Amazon S3 · HTML5 ·
-                React.js · Amazon Web Services (AWS) · pg · Redux Thunk ·
-                JavaScript · Node.js · React Hooks · RTK · REST APIs ·
-                Responsive Web Design · Amazon EC2
+                <span className="color-primary">Skills:</span> Express.js · HTML5 · CSS3
+                · React.js · Node.js · React Hooks · REST APIs · Responsive Web Design
               </p>
             </div>
           </div>
