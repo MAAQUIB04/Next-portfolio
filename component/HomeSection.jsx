@@ -40,8 +40,7 @@ function HomeSection() {
             >
               <h1>2</h1>
               <p>
-                Years of <br />
-                Experience
+                Years of Experience
               </p>
             </div>
             <div
