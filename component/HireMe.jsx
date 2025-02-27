@@ -12,8 +12,8 @@ function HireMe() {
         <span className="designation">Business Analyst</span>
       </div> */}
       <img className="me" src="assets/images/AquibProfile.jpeg" alt="Me" height={370} width={250} />
-      <h4 className="me">Mohammad Abdul Aquib Khan</h4>
-      <h2 className="address">Based in Greater Toronto Area, Canada</h2>
+      <h2 className="me">Mohammad Abdul Aquib Khan</h2>
+      <h4 className="address">Based in Greater Toronto Area, Canada</h4>
       <ul className="social-profile d-flex align-items-center flex-wrap justify-content-center">
         <li>
           <a

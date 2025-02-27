@@ -782,18 +782,22 @@ main.drake-main {
     font-weight: 400;
 }
 
-.left-sidebar h4 {
+.left-sidebar h2 {
     font-size: 20px;
     color: #fff;
     text-align: center;
-    font-weight: 100;
+    font-weight: 400;
 }
 
-.left-sidebar h2 {
-    font-size: 25px;
+.left-sidebar h4 {
+    font-size: 16px;
     color: #fff;
     text-align: center;
     font-weight: 200;
+}
+
+.left-sidebar .me {
+    margin-bottom: 10px;
 }
 
 .left-sidebar .address {
