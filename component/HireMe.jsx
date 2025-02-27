@@ -8,7 +8,7 @@ function HireMe() {
   return (
     <div className="left-sidebar">
       <div className="sidebar-header d-flex align-items-center justify-content-between">
-        <img src="assets/images/aquib.png" alt="Logo" width={200} />
+        <span className="designation">Mohammad Abdul Aquib Khan</span>
         <span className="designation">Business Analyst</span>
       </div>
       <img className="me" src="assets/images/AquibProfile.jpeg" alt="Me" height={370} width={250} />

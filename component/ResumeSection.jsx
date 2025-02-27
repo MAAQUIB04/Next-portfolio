@@ -67,6 +67,18 @@ function ResumeSection() {
             </div>
             <h2><strong>Business Analytics</strong></h2>
           </div>
+
+          <div className="item scroll-animation" data-animation="fade_from_right">
+            <div>
+              <span className="color-primary">
+                <strong>RDVV UNIVERSITY, India</strong>
+              </span>
+              <span className="date">
+                <strong>Aug 2018 – Jun 2021</strong>
+              </span>
+            </div>
+            <h2><strong>Baachelor of Business Administration(Finance) </strong></h2>
+          </div>
   
         </div>
       </div>

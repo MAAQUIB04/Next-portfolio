@@ -1,40 +1,30 @@
 import Image from "next/image";
 import React from "react";
-import ReactIcon from "./icons/ReactIcon";
-import ReduxIcon from "./icons/ReduxIcon";
-import JavascriptIcon from "./icons/JavascriptIcon";
-import ReactNativeIcon from "./icons/ReactNativeIcon";
-import TailwindIcon from "./icons/TailwindIcon";
 import SkillItem from "./SkillItem";
-import NextJSIcon from "./icons/NextJSIcon";
-import WebpackIcon from "./icons/WebpackIcon";
-import HTMLIcon from "./icons/HTMLIcon";
-import CSSIcon from "./icons/CSSIcon";
-import NodeJSIcon from "./icons/NodeJSIcon";
-import ExpressJSIcon from "./icons/ExpressJSIcon";
-import HapiJSIcon from "./icons/HapiJSIcon";
-import SocketIcon from "./icons/SocketIcon";
-import DockerIcon from "./icons/DockerIcon";
-import RedisIcon from "./icons/RedisIcon";
-import AWSIcon from "./icons/AWSIcon";
+import PowerBIIcon from "./icons/PowerBIIcon";
+import TableauIcon from "./icons/TableauIcon";
+import AzureIcon from "./icons/AzureIcon";
+import PythonIcon from "./icons/PythonIcon";
+import SQLIcon from "./icons/SQLIcon";
+import DAXIcon from "./icons/DAXIcon";
+import ExcelIcon from "./icons/ExcelIcon";
+import DataModelingIcon from "./icons/DataModelingIcon";
+import DataVisualizationIcon from "./icons/DataVisualizationIcon";
+import ETLIcon from "./icons/ETLIcon";
+import ReportingIcon from "./icons/ReportingIcon";
 
 const skills = [
-  { icon: HTMLIcon, name: "HTML" },
-  { icon: CSSIcon, name: "CSS" },
-  { icon: TailwindIcon, name: "Tailwind" },
-  { icon: JavascriptIcon, name: "Javascript" },
-  { icon: ReactIcon, name: "React" },
-  { icon: ReduxIcon, name: "Redux" },
-  { icon: WebpackIcon, name: "Webpack" },
-  // { icon: ReactNativeIcon, name: "React Native" },
-  { icon: NextJSIcon, name: "Next JS" },
-  { icon: NodeJSIcon, name: "Node JS" },
-  { icon: ExpressJSIcon, name: "Express JS" },
-  //   { icon: HapiJSIcon, name: "Hapi JS" },
-  // { icon: SocketIcon, name: "Socket.IO" },
-  // { icon: DockerIcon, name: "Docker" },
-  // { icon: RedisIcon, name: "Redis" },
-  { icon: AWSIcon, name: "AWS" },
+  { icon: PowerBIIcon, name: "Power BI" },
+  { icon: TableauIcon, name: "Tableau" },
+  { icon: AzureIcon, name: "Azure" },
+  { icon: PythonIcon, name: "Python" },
+  { icon: SQLIcon, name: "SQL" },
+  { icon: DAXIcon, name: "DAX" },
+  { icon: ExcelIcon, name: "MS Excel" },
+  { icon: ETLIcon, name: "ETL"},
+  { icon: DataModelingIcon, name: "Data Modelling" },
+  { icon: DataVisualizationIcon, name: "Data Visualization" },
+  { icon: ReportingIcon, name: "Reporting"},
 ];
 function SkillSection() {
   return (
