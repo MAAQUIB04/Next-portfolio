@@ -11,12 +11,16 @@ function AwardItem({ imageUrl, name, skills = [], description }) {
         <div className="portfolio-item-inner">
           <a href={imageUrl} data-lightbox={name}>
             <Image
-              src={imageUrl}
-              alt={name}
-              width={100}
-              height={100}
-              loading="lazy"
-              quality={100}
+                src={imageUrl}
+                alt={name}
+                width={80}         // You can adjust the width to make it smaller
+                height={80}         // Keep height the same to maintain aspect ratio
+                loading="lazy"
+                quality={100}       // Maximum quality
+                style={{
+                  objectFit: "contain",  // Ensures the image fits without stretching
+                  borderRadius: "8px", 
+              }}
             />
           </a>
           <ul className="portfolio-categories">
