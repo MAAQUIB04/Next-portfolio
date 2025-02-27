@@ -8,12 +8,10 @@ function HireMe() {
   return (
     <div className="left-sidebar">
       <div className="sidebar-header d-flex align-items-center justify-content-between">
-        <span className="designation">Mohammad Abdul Aquib Khan</span>
-        <span className="designation">Business Analyst</span>
-      </div>
+      <h4 className="me">Mohammad Abdul Aquib Khan</h4>
       <img className="me" src="assets/images/AquibProfile.jpeg" alt="Me" height={370} width={250} />
-      <h2 className="address">Based in Mississauga, Ontario, Canada</h2>
-      <p className="copyright">© 2025 Aquib. All Rights Reserved</p>
+      <h3 className="address">Based in Greater Toronto Area, Canada</h3>
+      </div>
       <ul className="social-profile d-flex align-items-center flex-wrap justify-content-center">
         <li>
           <a
@@ -42,6 +40,7 @@ function HireMe() {
       <a href="/Mohammad-Abdul-Aquib-Khan.pdf" download={true} className="theme-btn">
         <i className="las la-arrow-down" /> Download CV
       </a>
+      <p className="copyright">© 2025 Aquib. All Rights Reserved</p>
     </div>
   );
 }
