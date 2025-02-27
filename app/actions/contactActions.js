@@ -19,7 +19,7 @@ export async function submitForm(data) {
       secure: false, // Set to true for port 465, false for port 587
       auth: {
         user: "maak0401@gmail.com", // Replace with your email
-        pass: "tdde adml uabb tmoo", // Replace with your email password or app-specific password
+        pass: "", // Replace with your email password or app-specific password
       },
     });
 
