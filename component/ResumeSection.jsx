@@ -26,17 +26,17 @@ function ResumeSection() {
             </div>
             <h2><strong>Analyst</strong></h2>
             <ul>
-              <li>Streamlined inventory tracking system using <strong>Power BI</strong> and <strong>DAX</strong>, identifying discrepancies and reducing audit time by <strong>30%</strong>.</li>
-              <li>Designed a <strong>performance dashboard</strong> with key KPI metrics by conducting time studies and leveraging SAP data, improving data accessibility for stakeholders and improving warehouse efficiency by 15%.</li>
-              <li>Managed <strong>50+</strong> weekly inbound and outbound returns and analyzed their <strong>financial impact</strong> to ensure accurate inventory adjustments and precise financial reporting.</li>
-              <li>Facilitated a comprehensive <strong>stakeholder analysis</strong>, identifying and defining responsibilities for 5 impacted groups, resulting in a 30% improvement in project alignment and streamlined task prioritization.</li>
+              <li>Automated inventory tracking system using Power BI, identifying discrepancies and reducing audit time by 30% through strong analytical thinking and attention to detail.</li>
+              <li>Collaborated closely with cross-functional teams to design a performance dashboard with key KPI metrics, leveraging time studies and SAP data, enhancing data accessibility for stakeholders and improving warehouse efficiency by 15%.</li>
+              <li>Spearheaded the returns process by developing a KPI-driven dashboard, tracking inbound/outbound returns, their financial value, and vendor credits. Identified quarantined products worth $500K, ensuring accurate inventory adjustments and financial reporting to management, demonstrating strong organizational and problem-solving skills.</li>
+              <li>Streamlined the supply planning process by developing a weekly report that tracked product demand and inventory levels, improved forecasting accuracy by 20% and provided key insights to support audit processes and drive business growth.</li>
             </ul>
   
             <h2><strong>Business Analyst Intern</strong></h2>
             <ul>
-              <li>Accelerated <strong>inventory optimization</strong> by designing a <strong>Power BI</strong> report to analyze inventory turnover and stock levels, improving inventory management efficiency.</li>
-              <li>Enhanced the master data by optimizing data structures and processes with <strong>DAX Studio</strong>, resulting in a <strong>30%</strong> increase in <strong>refresh efficiency</strong>.</li>
-              <li><strong>Automated</strong> the reporting process for Shoppers across Canada by optimizing the script using <strong>Excel macros</strong>, reducing processing time by <strong>40%</strong>.</li>
+              <li>Curated automated Power BI reports to optimize inventory turnover and stock levels, providing clear insights to stakeholders.</li>
+              <li>Optimized master data refresh efficiency by 30% through data structure enhancements using DAX Studio, rewriting and optimizing key measures within the data model to improve performance and reduce refresh time.</li>
+              <li>Enhanced the reporting process for Shoppers across Canada by migrating to Excel macros, reducing processing time by 40%, leading to improved efficiency and operational effectiveness while maintaining 100% data accuracy.</li>
             </ul>
           </div>
   
@@ -51,8 +51,9 @@ function ResumeSection() {
             </div>
             <h2><strong>Analyst</strong></h2>
             <ul>
-              <li>Resolved <strong>36 ETL issues</strong> during a single sprint, addressing backlog efficiently and meeting evolving client needs, leading to a smoother data pipeline and a <strong>20%</strong> increase in data processing speed.</li>
-              <li>Leveraged <strong>advanced Excel functions</strong> to analyze and extract data from <strong>financial models</strong>, enhancing data interpretation.</li>
+              <li>Streamlined the data pipeline by delivering ETL solutions as per client requirements, improving efficiency and ensuring reliable data flow. Resolved 36 ETL issues within a single sprint, contributing to a 20% increase in processing speed</li>
+              <li>Developed and documented KPIs for non-technical stakeholders, enabling better decision-making and enhancing self-service capabilities by 15%, which led to a 20% reduction in support requests.</li>
+              <li>Assisted with developing test case scenarios, reconciliations, User Acceptance Testing (UAT), and comprehensive gap assessments as part of a strategic initiative to rebuild client relationships across the practice.</li>
             </ul>
           </div>
   

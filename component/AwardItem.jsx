@@ -13,14 +13,14 @@ function AwardItem({ imageUrl, name, skills = [], description }) {
             <Image
                 src={imageUrl}
                 alt={name}
-                width={80}         // You can adjust the width to make it smaller
-                height={80}         // Keep height the same to maintain aspect ratio
+                width={80}
+                height={80}
                 loading="lazy"
-                quality={100}       // Maximum quality
+                quality={100}
                 style={{
-                  objectFit: "contain",  // Ensures the image fits without stretching
+                  objectFit: "contain",
                   borderRadius: "8px", 
-              }}
+                }}
             />
           </a>
           <ul className="portfolio-categories">
