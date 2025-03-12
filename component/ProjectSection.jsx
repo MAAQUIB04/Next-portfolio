@@ -80,7 +80,7 @@ function ProjectSection() {
               <p>
                 A dashboard to manage multiple branches, employees, trainers,
                 coaches, personal trainings, plans, memberships, invoices,
-                massagers, therapies, users, coupons, biometric attendance etc,
+                therapies, users, coupons, biometric attendance etc,
                 built on React, Node, Express js, pg db.
               </p>
               <p>
