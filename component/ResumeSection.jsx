@@ -24,7 +24,7 @@ function ResumeSection() {
                 <strong>Sep 2024 - Present</strong>
               </span>
             </div>
-            <h2><strong>Analyst</strong></h2>
+            <h2><strong>Inventory Control Coordinator</strong></h2>
             <ul>
               <li>Automated inventory tracking system using Power BI, identifying discrepancies and reducing audit time by 30% through strong analytical thinking and attention to detail.</li>
               <li>Collaborated closely with cross-functional teams to design a performance dashboard with key KPI metrics, leveraging time studies and SAP data, enhancing data accessibility for stakeholders and improving warehouse efficiency by 15%.</li>
